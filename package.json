@@ -1,6 +1,6 @@
 {
-  "name": "netlab_1.2",
-  "productName": "netlab_1.2",
+  "name": "standart-electron-react-app",
+  "productName": "standart-electron-react-app",
   "version": "1.0.0",
   "homepage": "./",
   "main": "main.js",
