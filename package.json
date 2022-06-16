@@ -24,7 +24,7 @@
     "babili-webpack-plugin": "^0.1.2",
     "css-loader": "^6.5.1",
     "dotenv-webpack": "^7.1.0",
-    "electron": "^17.0.0",
+    "electron": "^17.2.0",
     "electron-devtools-installer": "^3.2.0",
     "electron-packager": "^15.4.0",
     "file-loader": "^6.2.0",
